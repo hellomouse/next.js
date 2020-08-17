@@ -20,7 +20,7 @@
     "install-deps": "cd \"dist/functions\" && npm i"
   },
   "dependencies": {
-    "firebase-admin": "^5.12.1",
+    "firebase-admin": "^8.3.0",
     "firebase-functions": "^1.0.2",
     "next": "^6.0.3",
     "react": "^16.3.2",
